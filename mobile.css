@@ -32,7 +32,51 @@
     width: 60% !important;
   }
 
+  .why-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+    color: #fdcb2b !important;
+    width: 100% !important;
+  }
+
   .s-img img {
+    width: 100% !important;
+  }
+  .cart {
+    right: 20px !important;
+  }
+  .client_img img {
+    border-left: 8px solid #fdcb2b;
+    width: 70% !important;
+  }
+  .left img {
+    z-index: 111 !important;
+    margin-top: 220%;
+  }
+  .right img {
+    z-index: 111;
+    margin-left: 5%;
+    margin-top: 220%;
+  }
+  .client_quote {
+    width: 1.5rem;
+    margin-top: 18%;
+  }
+  .client-box {
     width: 80% !important;
+    margin-left: -75%;
+  }
+  .client_des {
+    margin-top: 10%;
+  }
+  .F-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+  }
+  .B-yellow {
+    background-color: #fdcb2b !important;
+    height: 10rem;
+    color: #fdcb2b !important;
+    width: 100% !important;
   }
 }
