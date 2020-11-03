@@ -6,7 +6,6 @@
     margin-bottom: 0px;
     width: 100%;
     overflow-x: hidden !important;
-    overflow-y: hidden !important;
   }
 
   body {
@@ -32,9 +31,7 @@
     color: #fdcb2b !important;
     width: 60% !important;
   }
-  .P-btn img {
-    display: none !important;
-  }
+
   .s-img img {
     width: 80% !important;
   }
