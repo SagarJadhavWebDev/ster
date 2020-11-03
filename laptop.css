@@ -34,6 +34,18 @@
     height: 10rem;
     color: #fdcb2b !important;
   }
+  .why-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+    color: #fdcb2b !important;
+  }
+  .B-yellow {
+    background-color: #fdcb2b !important;
+    height: 10rem;
+    width: 31%;
+    color: #fdcb2b !important;
+    margin-left: 21rem;
+  }
   .M-prev {
     margin-left: 96.5%;
     z-index: 111 !important;
@@ -48,5 +60,45 @@
   }
   .p-main {
     margin-left: 30%;
+  }
+  .client_img img {
+    border-left: 8px solid #fdcb2b;
+    width: 13rem;
+    height: 17rem !important;
+  }
+  .left img {
+    margin-left: 90% !important;
+    z-index: 111 !important;
+  }
+  .right img {
+    margin-top: 100px;
+    z-index: 111;
+    margin-left: 2%;
+  }
+  .client_quote {
+    width: 1.5rem;
+  }
+  .S-img img {
+    border-left: 8px solid #fdcb2b;
+    border-top: 8px solid #fdcb2b;
+  }
+  .So-card {
+    width: 21rem !important;
+  }
+  .card_one_social_btn {
+    z-index: -1 !important;
+  }
+  .B-box {
+    margin-left: 40% !important;
+  }
+  .B-des {
+    width: 30% !important;
+  }
+  .F-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+  }
+  .txt-sm {
+    font-size: 10px !important;
   }
 }
