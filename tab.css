@@ -1,0 +1,127 @@
+@media (min-width: 480px) and (max-width: 767px) {
+  html {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    overflow-x: hidden !important;
+  }
+
+  body {
+    font-family: "Poppins";
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+  }
+  .tab-nav {
+    margin-top: -30px !important;
+    margin-left: -50px !important;
+  }
+  .tab-nav-2 {
+    margin-top: 0px !important;
+    margin-left: 250px !important;
+  }
+  .yellow-color {
+    background-color: #fdcb2b !important;
+    height: 10rem;
+    color: #fdcb2b !important;
+    width: 80% !important;
+  }
+
+  .s-img img {
+    width: 50% !important;
+  }
+  .Slider {
+    left: -70px !important;
+    padding: 20px;
+  }
+  .why-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+    color: #fdcb2b !important;
+    width: 100% !important;
+  }
+  .flex-col {
+    flex-direction: column !important;
+  }
+  .btn-img {
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+    width: 35% !important;
+    padding: 0.5%;
+    border-radius: 25rem;
+  }
+
+  .why-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+    color: #fdcb2b !important;
+    width: 100% !important;
+  }
+  .tab-why-sub {
+    margin-top: -10px !important;
+  }
+
+  .s-img img {
+    width: 100% !important;
+  }
+  .cart {
+    right: 20px !important;
+  }
+  .client_img img {
+    border-left: 8px solid #fdcb2b;
+    width: 70% !important;
+  }
+  .left img {
+    z-index: 111 !important;
+    margin-top: 50%;
+    right: 30px !important;
+  }
+  .right img {
+    z-index: 111;
+    margin-left: 5%;
+    margin-top: 50%;
+  }
+  .client_quote {
+    width: 2rem;
+    margin-top: 12%;
+    margin-left: 0px !important;
+  }
+  .B-slid {
+    margin-left: 5px;
+  }
+  .client-box {
+    width: 80% !important;
+    margin-left: -80%;
+    font-size: 30px !important;
+  }
+  .client_des {
+    margin-top: 5%;
+    font-size: 20px;
+  }
+  .F-yellow-color {
+    background-color: #fdcb2b !important;
+    height: auto;
+  }
+  .B-yellow {
+    background-color: #fdcb2b !important;
+    height: 10rem;
+    color: #fdcb2b !important;
+    width: 100% !important;
+  }
+  .B-img img {
+    width: 90% !important;
+  }
+  .Blog-section-3 {
+    margin: 0px 30px !important;
+    font-size: 50px !important;
+  }
+  .nav-b-sub {
+    font-size: 50px !important;
+  }
+}
